@@ -6,14 +6,12 @@ def main():
     # printed console report
     print("--- Begin report of books/frankenstein.txt ---")
     print(f"{word_count} words found in the doument.")
-    print(get_character_dict(book_low))
     report(book_low)
     print("--- End report ---")
 
 # takes file contents returns count
 def get_word_count(booktext):
     return len(booktext.split())
-
 
 # takes path of file returns entire file contents
 def book_text(path):

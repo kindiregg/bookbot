@@ -1,0 +1,29 @@
+--- Begin report of books/frankenstein.txt ---
+77986 words found in the doument.
+The 'e' characer was found 46043 times
+The 't' characer was found 30365 times
+The 'a' characer was found 26743 times
+The 'o' characer was found 25225 times
+The 'i' characer was found 24613 times
+The 'n' characer was found 24367 times
+The 's' characer was found 21155 times
+The 'r' characer was found 20818 times
+The 'h' characer was found 19725 times
+The 'd' characer was found 16863 times
+The 'l' characer was found 12739 times
+The 'm' characer was found 10604 times
+The 'u' characer was found 10407 times
+The 'c' characer was found 9243 times
+The 'f' characer was found 8731 times
+The 'y' characer was found 7914 times
+The 'w' characer was found 7638 times
+The 'p' characer was found 6121 times
+The 'g' characer was found 5974 times
+The 'b' characer was found 5026 times
+The 'v' characer was found 3833 times
+The 'k' characer was found 1755 times
+The 'x' characer was found 677 times
+The 'j' characer was found 504 times
+The 'q' characer was found 324 times
+The 'z' characer was found 243 times
+--- End report ---
